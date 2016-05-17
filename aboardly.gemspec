@@ -2,8 +2,8 @@ Gem::Specification.new do |spec|
   spec.name          = "aboardly"
   spec.version       = "0.2"
   spec.date          = Time.now
-  spec.authors       = ["Serge Herkül"]
-  spec.email         = ["serge@aboardly.com"]
+  spec.authors       = ["Martin Wong"]
+  spec.email         = ["info@aboardly.com"]
   spec.summary       = 'Aboardly Client for Ruby applications'
   spec.description   = 'IFTTT for automated customer emailing'
   spec.homepage      = 'http://www.aboardly.com/'
