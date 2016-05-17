@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "aboardly"
-  spec.version       = "0.1"
+  spec.version       = "0.2"
   spec.date          = Time.now
   spec.authors       = ["Serge Herkül"]
   spec.email         = ["serge@aboardly.com"]
